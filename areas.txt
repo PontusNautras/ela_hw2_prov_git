@@ -1,0 +1,9 @@
+
+echo "Working Directory" > areas.txt
+echo "Staging Area" >> areas.txt
+echo "Git Repository" >> areas.txt
+
+
+
+
+

@@ -1,0 +1,1 @@
+för att titta i på historiken används (git log) commandot
